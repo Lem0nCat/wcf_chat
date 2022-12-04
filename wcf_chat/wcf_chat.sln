@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{61A8D9FD-153F-451B-A67A-23EC2669D198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{0EF393EB-6DD2-475E-A1CA-D2E8216E62D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{BD14CC9E-C236-4648-BDD2-A7C608C0C219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A8D9FD-153F-451B-A67A-23EC2669D198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A8D9FD-153F-451B-A67A-23EC2669D198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A8D9FD-153F-451B-A67A-23EC2669D198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A8D9FD-153F-451B-A67A-23EC2669D198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF393EB-6DD2-475E-A1CA-D2E8216E62D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF393EB-6DD2-475E-A1CA-D2E8216E62D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF393EB-6DD2-475E-A1CA-D2E8216E62D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF393EB-6DD2-475E-A1CA-D2E8216E62D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD14CC9E-C236-4648-BDD2-A7C608C0C219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD14CC9E-C236-4648-BDD2-A7C608C0C219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD14CC9E-C236-4648-BDD2-A7C608C0C219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD14CC9E-C236-4648-BDD2-A7C608C0C219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01B1C109-5888-45C8-BEA3-69B5E39EF659}
+	EndGlobalSection
+EndGlobal

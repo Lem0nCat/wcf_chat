@@ -1,0 +1,7 @@
+C:\Users\ilnaz\Desktop\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\ilnaz\Desktop\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\ilnaz\Desktop\Classes\Classes\bin\Debug\Classes.dll.config
+C:\Users\ilnaz\Desktop\Classes\Classes\bin\Debug\Classes.dll
+C:\Users\ilnaz\Desktop\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\ilnaz\Desktop\Classes\Classes\obj\Debug\Classes.dll
+C:\Users\ilnaz\Desktop\Classes\Classes\obj\Debug\Classes.pdb
